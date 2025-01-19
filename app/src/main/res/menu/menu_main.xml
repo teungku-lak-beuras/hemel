@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_main_option_list" android:title="@string/menu_main_option_list" app:showAsAction="never"/>
+    <item android:id="@+id/menu_main_option_grid" android:title="@string/menu_main_option_grid" app:showAsAction="never"/>
+    <item android:id="@+id/menu_main_option_about" android:title="About" app:showAsAction="never"/>
+</menu>

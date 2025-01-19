@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Hemel</string>
+
+    <string name="dummy_cardview_title">Dummy Title</string>
+    <string name="dummy_cardview_description">This is a dummy text. Do not take it seriously!</string>
+
+    <string name="act_about_name">Erwin Putra Marpaung</string>
+    <string name="act_about_email">erwinmarpaunghd@gmail.com</string>
+    <string name="act_about_share">Bagikan gaes...</string>
+
+    <string name="act_main_actionbar">10 Reasons Why I Love Aikiyo Fuuka</string>
+
+    <string name="text_splash_title">Hemel...?</string>
+    <string name="text_splash_subtitle">Ja, Fuuka is hemel!</string>
+
+    <string name="menu_main_option_list">Tampilan 1 kolom</string>
+    <string name="menu_main_option_grid">Tampilan 2 kolom</string>
+
+    <string-array name="titles">
+        <item>1. She is beautiful</item>
+        <item>2. Her voice is soft and addicting</item>
+        <item>3. Cares for my health</item>
+        <item>4. Can cook delicious food</item>
+        <item>5. Able to do a racing-mode</item>
+        <item>6. Patient, resilient, and uncomplaining</item>
+        <item>7. Always strives to do her best</item>
+        <item>8. Non-invasive and love peace</item>
+        <item>9. Her body is body-goal</item>
+        <item>10. She is Aikiyo Fuuka (愛清あいきよフウカ)</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>"No doubt about that. She's cute and beautiful. She has one of the best L2Ds (Live 2 Dimensions animation) in the game. One might say that "everyone has different tastes". But, NO! I would say that Aikiyo Fuuka is OBJECTIVE-LY beautiful, cute, and adorable. How so? Simple. Stare at her and you might find yourself have a bleeding nose due to over-stimulation."</item>
+        <item>"Have you ever heard of something called \"Cute Aggression\"? It is a condition where human brain struggle to handle over-positive emotion caused by things that are too cute. The brain tries its best to balance the positive and negative emotions by being aggressive like feel the need to squish, grasp, or pinch something cute. And trust me, hearing Aikiyo Fuuka's voice is the least thing you want in order to keep you sanity."</item>
+        <item>"She tends to care a lot for me, making sure I don't eat too many unhealthy kinds of food and asking for me to call her if I ever need a meal prepared. Some NPCs joke that she makes a great housewife as she's skilled at selecting and haggling over ingredients as well as being able to cook well. She cares about my health, she'll lecture me when I am not paying attention to my health, and she'll go as far as to cook what's best for me."</item>
+        <item>"She spoils me in the form of FOOD which she puts her love into. She is like an angel that live only to cook the best food one could imagine. Her cook is just another level. Man, unfortunately her skills are written off due to the dining hall's lack of manpower. Still, she refuses to give up and is constantly looking for ways to improve the menu."</item>
+        <item>"You do think that she is just a normie random kitchen-woman don't you? NO! You are absolutely wrong, buddy. Let me tell you this: she is a talented motorcyclist woman who is able to drive you with her vespa from Medan City to Sibolga City under 8 hours! That's freaking INSANE for A WOMAN! USING A LITERAL VESPA!!!"</item>
+        <item>"Being Fuuka truly is suffering. Her own artist forgot her birthday. She receive complaints from the students everyday. While her meals are certainly good, due to the cafeteria being understaffed, her true culinary skills tend to go undervalued. Nevertheless, she does not intend to give up and puts in effort day-by-day to make the better menu."</item>
+        <item>"She prepares and serves hundreds of meals every morning for the students of Gehenna. She's a good cook, but her skills are written off due to the dining hall's lack of manpower. Still, she refuses to give up and is constantly looking for ways to improve the menu.\n\nShe manages to cook for 1500+ people, while being constantly harassed by terrorists and working with subpar ingredients with barely anyone acknowledging her.\n\nEveryday.\n\nCalling her just good is an insult here, she's great."</item>
+        <item>"Her MomoTalk status is \"Let today be okay (T_T\)\". Can you read that? Even after all of those unnecessary nuisance caused by crazy students, everything she hope for is nothing but a good day. She only wants peace, something that is so simple yet so difficult for the world to give."</item>
+        <item>"Her height is 5'2\" or 159cm. It is perfectly ideal for most of countries in the world. Not too long yet not too short. B-A-L-A-N-C-E-D-!"</item>
+        <item>"And best of all, she's Fuuka, Aikiyo Fuuka. Correct me if I'm wrong but is it wrong to imagine this? A daily life with Fuuka-tan? When days become shorter, colder and lazier, when Kivotos is finally at peace for some time and Schale gives me a deserved reprieve after long? Imagine this, coming home to see my adoring wife Fuuka waiting for me with apron and spoon in hand, midway through preparing a hearty homecooked meal during the increasingly chilly days of autumn, slightly embarrassed at being found loitering around the front door expectedly waiting for my arrival. Helping with the last touches of the meal, setting the table so that when Fuuka arrives, me and Fuuka can sit at the same time, continuing our animated conversation about nothing we started in the kitchen. Talking a bit longer after finishing the meal, completely satisfied and then standing up to wash the dishes together, both relishing the invaluable normality we have finally attained. Peacefully, habitually and giving a sense of being eternally recurrent, me and Fuuka contentedly hum to the same tune, washing the dishes once more, same as yesterday, same as yesteryear, and hopefully the same as the future. Isn't this such a nice window into a possible future?\n\nFuuka is love\nFuuka is life\none day i hope for a Fuuka wife\nWith those cutesy deadpan eyes\nI’ll know that all is well in life\nwhen I have myself a Fuuka wife"</item>
+    </string-array>
+    <integer-array name="images">
+        <item>@drawable/punyaku_1</item>
+        <item>@drawable/punyaku_2</item>
+        <item>@drawable/punyaku_3</item>
+        <item>@drawable/punyaku_4</item>
+        <item>@drawable/punyaku_5</item>
+        <item>@drawable/punyaku_6</item>
+        <item>@drawable/punyaku_7</item>
+        <item>@drawable/punyaku_8</item>
+        <item>@drawable/punyaku_9</item>
+        <item>@drawable/punyaku_10</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The act_main_recyclerview: RecyclerView shall be the container for comp_cardview_reason.xml -->
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/act_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActMain">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/act_main_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/mered"
+        android:theme="@style/Base.Theme.Hemel.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:titleTextAppearance="@style/Base.Theme.Hemel.ActionBarTitle"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/act_main_recyclerview"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/act_main_actionbar" />
+</androidx.constraintlayout.widget.ConstraintLayout>
